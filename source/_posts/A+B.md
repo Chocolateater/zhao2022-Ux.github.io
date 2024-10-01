@@ -15,7 +15,7 @@ title: A+B
   a(\frac{1+\sqrt{5}}{2})+b(\frac{1-\sqrt{5}}{2})=B
 \end{cases}$\
 解二元一次方程组得$\begin{cases}
-  a=\frac{B-A(\frac{1-\sqrt{5}}{2})}{\sqrt{5}} \\
+  a=\frac{B-A(\frac{1-\sqrt{5}}aSDSAsadf{2})}{\sqrt{5}} \\
   b=\frac{A(\frac{1+\sqrt{5}}{2})-B}{\sqrt{5}}
 \end{cases}$\
 再代入得$f_n=\frac{1}{\sqrt{5}}((B-A(\frac{1-\sqrt{5}}{2}))(\frac{1+\sqrt{5}}{2})^{n-1}+(A(\frac{1+\sqrt{5}}{2})-B)(\frac{1-\sqrt{5}}{2})^{n-1})$
