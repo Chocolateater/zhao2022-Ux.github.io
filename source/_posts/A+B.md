@@ -9,7 +9,7 @@ title: A+B
 再设$\begin{cases}
   f_n=aq_1^{n-1}+bq_2^{n-1} \\
   f_1=A,f_2=B
-\end{cases}$\
+\end{cases}$\sdfasdadfsa
 代入，即得$\begin{cases}
   a+b=A \\
   a(\frac{1+\sqrt{5}}{2})+b(\frac{1-\sqrt{5}}{2})=B
